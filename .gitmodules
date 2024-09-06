@@ -1,0 +1,3 @@
+[submodule "src/other-repo"]
+	path = src/other-repo
+	url = https://github.com/iamakashpc/Gemini-Clone.git
